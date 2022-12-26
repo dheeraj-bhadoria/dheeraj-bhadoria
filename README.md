@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Swastika Investmart Ltd.](https://swastika.co.in/)
 
-- 🌱 I’m currently learning **Kotlin, Flutter, SwiftUI**
+- 🌱 I’m currently exploring **Kotlin, Flutter, SwiftUI**
 
 - ⚡ Personal Website [DheeruApps](https://dheeruapps.com/)
 
