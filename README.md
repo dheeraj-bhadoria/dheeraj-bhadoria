@@ -11,9 +11,6 @@
 
 - ⚡ Fun fact **I love to play cricket.**
 
-![Profile views](https://gpvc.arturio.dev/dheeraj-bhadoria)
-<br/>
-
 ![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheeraj-bhadoria&show_icons=true&theme=radical)
 
 
@@ -25,6 +22,12 @@
 <a href="https://stackoverflow.com/users/10562311/dheeraj-singh-bhadoria" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Dheeraj Singh Bhadoria" height="22" width="22" /></a>
 <a href="https://pub.dev/publishers/dheeruapps.in/packages" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg" alt="Dheeraj Singh Bhadoria" height="22" width="22" /></a>
 <a href="https://developers.google.com/profile/u/dheeraj-singh-bhadoria" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="Dheeraj Singh Bhadoria" height="22" width="22" /></a>
+
+### Profile views:
+
+![Profile views](https://gpvc.arturio.dev/dheeraj-bhadoria)
+<br/>
+
 
 ### My Apps:
 
