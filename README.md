@@ -11,7 +11,8 @@
 
 - ⚡ Fun fact **I love to play cricket.**
 
-https://gpvc.arturio.dev/dheeraj-bhadoria
+![Profile views](https://gpvc.arturio.dev/dheeraj-bhadoria)
+<br/>
 
 ![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheeraj-bhadoria&show_icons=true&theme=radical)
 
