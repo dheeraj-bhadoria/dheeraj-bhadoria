@@ -11,6 +11,9 @@
 
 - ⚡ Fun fact **I love to play cricket.**
 
+![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheeraj-bhadoria&show_icons=true&theme=radical)
+
+
 ### Connect with me:
 
 <a href="https://twitter.com/bhadoriadheeru" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abuanwar072" height="22" width="22" /></a>
