@@ -11,8 +11,15 @@
 
 - ⚡ Fun fact **I love to play cricket.**
 
-![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheeraj-bhadoria&show_icons=true&theme=radical)
-
+<br/>
+<a href="https://github.com/dheeraj-bhadoria">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj-bhadoria&count_private=true&theme=dark" />
+</a>
+<br/>
+<br/>
+<a href="https://github.com/dheeraj-bhadoria">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-bhadoria&layout=compact&theme=dark&langs_count=4&hide=php,javascript," />
+</a>
 
 ### Connect with me:
 
@@ -27,16 +34,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/dheeraj-bhadoria)
 <br/>
-<br/>
-<a href="https://github.com/dheeraj-bhadoria">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj-bhadoria&count_private=true&theme=dark" />
-</a>
-<br/>
-<br/>
-<a href="https://github.com/dheeraj-bhadoria">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-bhadoria&layout=compact&theme=dark&langs_count=4&hide=php,javascript," />
-</a>
-
 
 ### My Apps:
 
