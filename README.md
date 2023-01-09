@@ -27,6 +27,15 @@
 
 ![Profile views](https://gpvc.arturio.dev/dheeraj-bhadoria)
 <br/>
+<br/>
+<a href="https://github.com/dheeraj-bhadoria">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj-bhadoria&count_private=true&theme=dark" />
+</a>
+<br/>
+<br/>
+<a href="https://github.com/dheeraj-bhadoria">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-bhadoria&layout=compact&theme=dark&langs_count=4&hide=php,javascript," />
+</a>
 
 
 ### My Apps:
