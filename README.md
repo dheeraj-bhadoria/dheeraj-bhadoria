@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Singh Bhadoria</h1>
 <h3 align="center">Mobile Application Developer with 8+ years of experience</h3>
 
-- 🔭 I’m currently working on [Swastika Investmart Ltd.](https://swastika.co.in/)
-
 - 🌱 I’m currently exploring **Kotlin, Flutter, SwiftUI**
 
 - ⚡ Personal Website [DheeruApps](https://dheeruapps.in/)
