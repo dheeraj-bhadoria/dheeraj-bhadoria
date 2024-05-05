@@ -20,7 +20,3 @@
 
 ![Profile views](https://gpvc.arturio.dev/dheeraj-bhadoria)
 <br/>
-
-### My Apps:
-
-<a href="https://play.google.com/store/apps/dev?id=5087694153723898446&hl=en&gl=US" target="_blank"><img src="https://www.rdsdelivery.com/wp-content/uploads/2016/11/get-it-on-google-play-icon-logo-e1486678715107.png" alt="abuanwar072" height="38" width="120" /></a>
