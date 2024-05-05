@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently exploring **Kotlin, Flutter, SwiftUI**
 
-- ⚡ Personal Website [DheeruApps](https://dheeruapps.in/)
-
 - 👯 I’m looking to collaborate with **other content creators**
 
 - ⚡ Fun fact **I love to play cricket.**
