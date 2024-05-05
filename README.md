@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Singh Bhadoria</h1>
-<h3 align="center">Mobile Application Developer with 8+ years of experience</h3>
+<h3 align="center">Mobile Application Developer</h3>
 
 - 🌱 I’m currently exploring **Kotlin, Flutter, SwiftUI**
 
@@ -16,7 +16,3 @@
 <a href="https://pub.dev/publishers/dheeruapps.in/packages" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg" alt="Dheeraj Singh Bhadoria" height="22" width="22" /></a>
 <a href="https://developers.google.com/profile/u/dheeraj-singh-bhadoria" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="Dheeraj Singh Bhadoria" height="22" width="22" /></a>
 
-### Profile views:
-
-![Profile views](https://gpvc.arturio.dev/dheeraj-bhadoria)
-<br/>
