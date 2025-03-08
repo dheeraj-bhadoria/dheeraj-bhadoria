@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Singh Bhadoria</h1>
 <h3 align="center">Mobile Application Developer</h3>
 
-- 🌱 I’m currently exploring **Kotlin, Flutter, SwiftUI**
+- 🌱 I’m currently exploring **Kotlin, Flutter, KMP and React Native**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
